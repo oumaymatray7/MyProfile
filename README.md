@@ -67,4 +67,4 @@
   <a href="https://angular.io" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="30" height="30"/></a> Angular, 
   <a href="https://expressjs.com" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="30" height="30"/></a> Express.js
 - **CI/CD** : 
-  <a href="https://git-scm.com/" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://
+  <a href="https://git-scm.com/" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm
