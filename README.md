@@ -68,3 +68,10 @@
   <a href="https://expressjs.com" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="30" height="30"/></a> Express.js
 - **CI/CD** : 
   <a href="https://git-scm.com/" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://www.vectorlogo.zone
+
+  <h3 align="left">📫 Connect with me:</h3>
+<p align="left" style="animation: fadeInUp 2s;">
+  <a href="oumaymtray7@gmail.com" style="animation: zoomIn 2s; display: inline-block;"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/tray-haroun-4627a51b9](https://www.linkedin.com/in/tray-oumayma-286882271" target="blank" style="animation: zoomIn 2s; display: inline-block;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
+
